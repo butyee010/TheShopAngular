@@ -1,0 +1,15 @@
+.secondary {
+  position: absolute;
+  max-width: 22.5%;
+  min-width: 22.5%;
+  word-break: break-all;
+  overflow: auto;
+  min-height: 100%;
+  background-color: white !important;
+  border-right: 6px solid $nav-color;
+  padding: .5rem 1rem;
+}
+
+.navbar-light {
+  background-color: $nav-color !important;
+}
